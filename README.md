@@ -2,7 +2,7 @@
 Repository dedicated for Computer Security final project.
 
 ## Important Notes!
-NEVER push database_config.php to repository, as this will cause people to have credentials to the database, leading to unauthorized access. 
+NEVER EVER push database_config.php to this repository. This repository is pubilc, so if you push the database credentials this will cause people to have your credentials to the database, leading to unauthorized access. 
 
 ## Setting up development environment
 Two software you are going to need is VSCode and XAAMP to set up the development environment to run PHP on a local web server.  
