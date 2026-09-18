@@ -1,4 +1,3 @@
-# CPS3498_Final_Project
 <!--# TrashScheduleNJ.com
 Never forget your trash schedule again with https://trashschedulenj.com!
 
@@ -29,7 +28,7 @@ PHP video: https://www.youtube.com/watch?v=zZ6vybT1HQs&list=PLZPZq0r_RZOPP5Yjt6I
   
 Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-->
 
-# TrashScheduleNJ
+# Red Team vs Blue Team
 
 <details>
 <summary>Table of Contents</summary>
