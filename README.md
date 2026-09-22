@@ -66,19 +66,14 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 - HTML
 - CSS
 - JavaScript
-- Python
-- Flask
 - SQL
-- MySQL Workbench
-- DigitalOcean
-- CloudFlare
+- Linux
+- OBI2
 
 ## What I Learned
 <!-- Highlight specific skills or concepts you learned or improved upon while working on this project. This section should directly address potential employer interests. -->
-- **Flask**: Connected our frontend to our backend using a web framework and Python.
-- **Database Connectivity**: Setting up and connecting a database that allows for data retrieval from the frontend.
-- **Server Deployment and Configuration**: Setting up a Linux cloud server using Digital Ocean to serve web contents to clients.
-- **Assigning a Domain Name**: Using CloudFlare to claim and assign a domain name to a specified Internet Protocol Address.
+- **Oracle Business Intelligence Servers(OBI)**:
+- **SQL Injection**: How to perform and prevent SQL injection on websites. 
 
 ## Setup and Installation
 <!--*Provide a clear, step-by-step guide to set up the project locally.*-->
@@ -88,7 +83,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 4. Right click on the file you want to open with Live Server, then select the Live Server option to view live changes. 
 
 ## Usage
-*This project has limited usage due to restricted API keys and security behind our own database. Users can connect their own database through the python file running flask.*
+*This project is mainly to learn about computer security principles as well as gain hands on experience with attacks related to code injection.*
 
 ## Code Examples
 <!-- *Show small, but significant snippets of code from your project.* -->
