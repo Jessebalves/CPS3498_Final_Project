@@ -83,7 +83,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 4. Right click on the file you want to open with Live Server, then select the Live Server option to view live changes. 
 
 ## Usage
-*This project is mainly to learn about computer security principles as well as gain hands on experience with attacks related to code injection.*
+*This project is mainly to learn about computer security principles as well as gain hands on experience with attacks related to code injection. For security purposes, this project is not available to the public because the universities' servers were used for this project.*
 
 ## Code Examples
 <!-- *Show small, but significant snippets of code from your project.* -->
