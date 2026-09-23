@@ -92,7 +92,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 
 ## How to Contribute
 <!--*Encourage contributions and provide guidelines for how others can help.*-->
-Our system uses Flask on the backend, feel free to connect your own database through the python file as we do not offer public access to the database for this project. If you would like to connect your own database, keep in mind that the ward look up and the process which data is passed from the backend to the frontend will have to be reworked. The main table will have to be reworked if you would like to add a new pick up type, such as grass and leaves. 
+Feel free to download this repository and look for flaws in our system! Any of the flaws can be reported to any of the individuals listed in the Contact section. 
 
 ## Contact
 <!--- *First and last name* - *Email address*-->
