@@ -48,7 +48,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 </details>
 
 ## Summary
-*Fill this out with description regarding project details, team member contributions and roles.*
+*University project where team members of our group were split into two subgroups, one of the subgroups was assigned to offense while the other group was assigned to defense. Fill this out with description regarding project details, team member contributions and roles.*
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
@@ -86,7 +86,6 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 
 ## Code Examples
 <!-- *Show small, but significant snippets of code from your project.* -->
-<img width="598" height="812" alt="Screenshot 2026-08-07 131721" src="https://github.com/user-attachments/assets/360b9c12-0eaf-4b01-9e45-fbe4ffc56df0" />
 
 
 ## How to Contribute
