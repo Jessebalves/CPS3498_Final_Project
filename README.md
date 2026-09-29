@@ -48,7 +48,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 </details>
 
 ## Summary
-*Missed garbage day? Never forget your trash schedule again with https://trashschedulenj.com! This project is for residents of Elizabeth, New Jersey to check their trash schedule depending upon the week and ward the user resides in.*
+*Fill this out with description regarding project details, team member contributions and roles.*
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
@@ -58,7 +58,6 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 
 ## Visuals
 <!--*Insert images or gifs showing your project in action. Consider before/after shots, workflows, or demos.*-->
-<img width="1096" height="612" alt="traaaash" src="https://github.com/user-attachments/assets/2d44d0b0-54e4-42f0-a29c-56a12c24d355" />
 
 
 ## Technologies
@@ -97,10 +96,8 @@ Feel free to download this repository and look for flaws in our system! Any of t
 ## Contact
 <!--- *First and last name* - *Email address*-->
 - *Jesse Alves* - *jessebalves@gmail.com*
-- *Daniel Lordelo* - *daniellordelo@gmail.com*
 <!--- *Any other contact information*-->
 
 ## Acknowledgments
 <!--*Credits to individuals or resources that helped you during the project.*-->
-- elizabethnj.org : https://www.elizabethnj.org/288/Garbage-and-Recycling-Calendar
 ---
