@@ -57,8 +57,6 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 
 ## Visuals
 <!--*Insert images or gifs showing your project in action. Consider before/after shots, workflows, or demos.*-->
-<img width="1020" height="363" alt="Screen Shot 2026-09-30 at 1 49 07 PM" src="https://github.com/user-attachments/assets/fb848870-ff78-4c1b-af18-4a56c6c57dd0" />
-
 
 ## Technologies
 <!--Detail the technologies, languages, frameworks, and tools used in the project.-->
@@ -86,7 +84,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 
 ## Code Examples
 <!-- *Show small, but significant snippets of code from your project.* -->
-
+<img width="1020" height="363" alt="Screen Shot 2026-09-30 at 1 49 07 PM" src="https://github.com/user-attachments/assets/fb848870-ff78-4c1b-af18-4a56c6c57dd0" />
 
 ## How to Contribute
 <!--*Encourage contributions and provide guidelines for how others can help.*-->
