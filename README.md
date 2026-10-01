@@ -48,7 +48,7 @@ Flask tutorial (Python backend) : https://www.geeksforgeeks.org/flask-tutorial/-
 </details>
 
 ## Summary
-*University project where team members of our group were split into two subgroups, one of the subgroups was assigned to offense while the other group was assigned to defense. Fill this out with description regarding project details, team member contributions and roles.*
+*University project where team members of our group were split into two subgroups, one of the subgroups was assigned to offense while the other group was assigned to defense. The defensive team created a small website with a login feature, with the sole purpose of preventing SQL injection in the login process.*
 
 ## Features
 <!--List the standout features of your project and what makes it unique.-->
